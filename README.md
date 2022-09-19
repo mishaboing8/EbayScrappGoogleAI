@@ -2,7 +2,7 @@
 Filtering ebay products with google image ai help
 
 Hi, im so glad to see you here.
-Current project works in bundle with EbayParsePhones project.
+Current project works in bundle with EbayScrappingPhones project.
 Application start TCPServer on local adress on port 80. Please use dynamic ip adress, to be able to connect from phone.
 
 MAIN IDEA:
@@ -23,6 +23,6 @@ Baby-G | Baby G | Casio | G Shock | G-Shock | 5600 | 5610 | 5630 | 5000 | 5025 |
 3) Enter filename where you would like to store products info (File can be empty);
 4) Wait and enjoy;
 5) To quit just enter quit in terminal every time you want;
-6) Your founded products you can find in file (step 3), or in application EbayParsePhones (see on my github);
+6) Your founded products you can find in file (step 3), or in application EbayScrappingPhones (see on my github);
 
 
