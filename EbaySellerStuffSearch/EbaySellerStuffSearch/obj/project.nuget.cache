@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nM1qoGHrLf2/bKI5RDZiRI0oQE8UMBJvL/nJi5eZB3Ba+zoDmGDUlKmJa7nBiRWKjFqRgNwcW3ZYru1yVGBfvg==",
+  "success": true,
+  "projectFilePath": "/Users/mihails/Projects/EbaySellerStuffSearch/EbaySellerStuffSearch/EbaySellerStuffSearch.csproj",
+  "expectedPackageFiles": [
+    "/Users/mihails/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/mihails/.nuget/packages/selenium.support/4.4.0/selenium.support.4.4.0.nupkg.sha512",
+    "/Users/mihails/.nuget/packages/selenium.webdriver/4.4.0/selenium.webdriver.4.4.0.nupkg.sha512",
+    "/Users/mihails/.nuget/packages/selenium.webdriver.chromedriver/104.0.5112.7900/selenium.webdriver.chromedriver.104.0.5112.7900.nupkg.sha512",
+    "/Users/mihails/.nuget/packages/seleniumextras.waithelpers/1.0.2/seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
