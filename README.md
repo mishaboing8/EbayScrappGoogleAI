@@ -3,6 +3,7 @@ Filtering ebay products with google image ai help
 
 Hi, im so glad to see you here.
 Current project works in bundle with EbayParsePhones project.
+Application start TCPServer on local adress on port 80. Please use dynamic ip adress, to be able to connect from phone.
 
 MAIN IDEA:
 Sometimes its very hard to find good stuff for good price on ebay. 
